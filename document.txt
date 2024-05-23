@@ -1,0 +1,44 @@
+jwt-auth-example/
+│
+├── config/
+│   └── db.js
+│
+├── models/
+│   └── User.js
+│
+├── routes/
+│   ├── auth.js
+│   └── profile.js
+│
+├── server.js
+├── package.json
+└── package-lock.json
+
+npm install express mongoose bcryptjs jsonwebtoken body-parser
+
+----------------------------------------------
+Register and Login Authentication
+
+Register:
+● Email id (with validation)
+● Username
+● Password
+● Confirm Password
+● OTP verification (gmail)
+● Select roles (Admin, User and Stuffs)
+
+Login:
+
+● Registered Email id or Username
+● Password
+● Forgot Password
+● Success login screen
+Technology:
+
+● React or Next, Node JS, MySQL or MongoDB, JWT(preferred)
+Deadline:
+20th Feb, 2024 - 2:00pm
+
+
+GitHub link:
+Push your code to the mentioned repository: (accept the invitation on your mentioned mail id)
